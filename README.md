@@ -2,7 +2,7 @@
 Install packages randomly.
 
 # how to use?
->1.get [terRpkg](https://github.com/dzzdrzrx/terRpkg/releases/tag/v0)
+>1.get [terRpkg](https://github.com/dzzdrzrx/terRpkg/releases/tag/v1)
 
 
 >2.open termux
