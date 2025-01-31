@@ -71,3 +71,4 @@ case $user_input in
     bash terRpkgs.sh
     ;;
 esac
+done
