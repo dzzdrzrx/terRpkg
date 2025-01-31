@@ -66,9 +66,7 @@ case $user_input in
     ;;
     
     *)
-    termux-toast -s sorry is not commands.
-    termux-toast -s reload terRpkg...
-    bash terRpkgs.sh
+    echo 'sorry. is not command.'
     ;;
 esac
 done
