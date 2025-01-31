@@ -10,4 +10,4 @@ Install packages randomly.
 
 >4.enter [cd terRpkg]
 
->5.Enjoy terRpkg!
+>5.and... [bash terRpkg.sh]
